@@ -1,0 +1,10 @@
+^O:\SOFTWAREENG\FIRST_ORGANISED_CMAKE\TESTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SO:/SoftwareEng/first_organised_cmake -BO:/SoftwareEng/first_organised_cmake/build --check-stamp-file O:/SoftwareEng/first_organised_cmake/build/tests/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

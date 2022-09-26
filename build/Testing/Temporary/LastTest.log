@@ -1,0 +1,36 @@
+Start testing: Sep 26 16:05 Paris, Madrid (heure d’été)
+----------------------------------------------------------
+1/2 Testing: test_hello
+1/2 Test: test_hello
+Command: "O:/SoftwareEng/first_organised_cmake/build/tests/Release/test_hello.exe"
+Directory: O:/SoftwareEng/first_organised_cmake/build/tests
+"test_hello" start time: Sep 26 16:05 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+Hello World!
+
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_hello" end time: Sep 26 16:05 Paris, Madrid (heure d’été)
+"test_hello" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_version
+2/2 Test: test_version
+Command: "O:/SoftwareEng/first_organised_cmake/build/tests/Release/test_version.exe"
+Directory: O:/SoftwareEng/first_organised_cmake/build/tests
+"test_version" start time: Sep 26 16:05 Paris, Madrid (heure d’été)
+Output:
+----------------------------------------------------------
+project version is 1.0
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"test_version" end time: Sep 26 16:05 Paris, Madrid (heure d’été)
+"test_version" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 26 16:05 Paris, Madrid (heure d’été)

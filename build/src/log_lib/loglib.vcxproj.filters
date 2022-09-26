@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="O:\SoftwareEng\first_organised_cmake\src\log_lib\print_log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="O:\SoftwareEng\first_organised_cmake\include\log_lib\print_log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="O:\SoftwareEng\first_organised_cmake\src\log_lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7D4087AE-CCF6-3C0C-8CC9-B458F566B9A0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1932C6AD-8B4A-3409-8DB8-EEAA5C47D3FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

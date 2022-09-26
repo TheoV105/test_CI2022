@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>O:\SoftwareEng\first_organised_cmake\build\tests\Release\test_hello.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>O:\SoftwareEng\first_organised_cmake\build\tests\Release\test_version.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>O:\SoftwareEng\first_organised_cmake\build\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs>
+    <NonRecipeFileRef>
+      <FullPath>O:\SoftwareEng\first_organised_cmake\build\ZERO_CHECK.proj</FullPath>
+    </NonRecipeFileRef>
+  </NonRecipeFileRefs>
+</Project>
